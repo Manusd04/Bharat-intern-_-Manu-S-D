@@ -1,4 +1,3 @@
-# Bharat-intern-_-Manu-S-D
 # Internship Projects
 
 This repository contains two projects completed during my internship with Bharat-intern. Below are details about each project:
@@ -13,7 +12,7 @@ The objective of this project was to develop a predictive model that could class
 
 ### Project Highlights
 
-- Utilized the [Iris Flowers dataset](link-to-dataset) containing petal and sepal length measurements.
+- Utilized the [Iris Flowers dataset](https://github.com/Manusd04/Bharat-intern-_-Manu-S-D/blob/main/iris%20flower/Iris.csv) containing petal and sepal length measurements.
 - Built and trained a machine learning model for flower species classification.
 - Evaluated the model's performance in terms of accuracy and precision.
 
@@ -23,7 +22,7 @@ Provide instructions on how to use or run the project, if applicable.
 
 ### Data
 
-The dataset used in this project is available in this repository. You can access it [here](link-to-iris-dataset).
+The dataset used in this project is available in this repository. You can access it [here](https://github.com/Manusd04/Bharat-intern-_-Manu-S-D/blob/main/iris%20flower/Iris.csv).
 
 ### Acknowledgments
 
@@ -39,7 +38,7 @@ In this project, the goal was to build a predictive model that could assess the 
 
 ### Project Highlights
 
-- Utilized the [Wine Quality dataset]([https://github.com/Manusd04/Bharat-intern-_-Manu-S-D/blob/main/wine/winequality.csv]) containing various wine attributes and quality ratings.
+- Utilized the [Wine Quality dataset](https://github.com/Manusd04/Bharat-intern-_-Manu-S-D/blob/main/wine/winequality.csv) containing various wine attributes and quality ratings.
 - Developed and trained a machine learning model for wine quality prediction.
 - Evaluated the model's accuracy and precision in predicting wine quality.
 
@@ -49,9 +48,8 @@ Provide instructions on how to use or run the project, if applicable.
 
 ### Data
 
-The dataset used in this project is available in this repository. You can access it [here](link-to-wine-quality-dataset).
+The dataset used in this project is available in this repository. You can access it [here](https://github.com/Manusd04/Bharat-intern-_-Manu-S-D/blob/main/wine/winequality.csv).
 
 ### Acknowledgments
 
 Thanks to Bharat-intern for providing the opportunity to work on this project.
-
