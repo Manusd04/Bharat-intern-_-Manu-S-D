@@ -39,7 +39,7 @@ In this project, the goal was to build a predictive model that could assess the 
 
 ### Project Highlights
 
-- Utilized the [Wine Quality dataset](link-to-dataset) containing various wine attributes and quality ratings.
+- Utilized the [Wine Quality dataset]([https://github.com/Manusd04/Bharat-intern-_-Manu-S-D/blob/main/wine/winequality.csv]) containing various wine attributes and quality ratings.
 - Developed and trained a machine learning model for wine quality prediction.
 - Evaluated the model's accuracy and precision in predicting wine quality.
 
